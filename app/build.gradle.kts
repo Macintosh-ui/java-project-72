@@ -10,7 +10,7 @@ plugins {
 }
 
 application {
-    mainClass.set("org.example.hexlet.HelloWorld")
+    mainClass.set("hexlet.code.App")
 }
 
 group = "org.example"
